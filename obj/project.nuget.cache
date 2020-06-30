@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tXrjHhbyl4hR/PRxvzQDoYP2oyqwBSdjBV5opxKdydadzj6t/iXMMh+g91f7VogLl/5+nplkWJzcgB9xH92huQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AlphaPaiN\\Documents\\Alguns cursos diferentes\\LearnNUget\\LearnNUget.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlphaPaiN\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

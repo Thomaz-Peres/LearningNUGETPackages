@@ -1,0 +1,15 @@
+C:\Users\AlphaPaiN\Documents\Alguns cursos diferentes\LearnNUget\bin\Debug\netcoreapp3.1\LearnNUget.exe
+C:\Users\AlphaPaiN\Documents\Alguns cursos diferentes\LearnNUget\bin\Debug\netcoreapp3.1\LearnNUget.deps.json
+C:\Users\AlphaPaiN\Documents\Alguns cursos diferentes\LearnNUget\bin\Debug\netcoreapp3.1\LearnNUget.runtimeconfig.json
+C:\Users\AlphaPaiN\Documents\Alguns cursos diferentes\LearnNUget\bin\Debug\netcoreapp3.1\LearnNUget.runtimeconfig.dev.json
+C:\Users\AlphaPaiN\Documents\Alguns cursos diferentes\LearnNUget\bin\Debug\netcoreapp3.1\LearnNUget.dll
+C:\Users\AlphaPaiN\Documents\Alguns cursos diferentes\LearnNUget\bin\Debug\netcoreapp3.1\LearnNUget.pdb
+C:\Users\AlphaPaiN\Documents\Alguns cursos diferentes\LearnNUget\obj\Debug\netcoreapp3.1\LearnNUget.csprojAssemblyReference.cache
+C:\Users\AlphaPaiN\Documents\Alguns cursos diferentes\LearnNUget\obj\Debug\netcoreapp3.1\LearnNUget.AssemblyInfoInputs.cache
+C:\Users\AlphaPaiN\Documents\Alguns cursos diferentes\LearnNUget\obj\Debug\netcoreapp3.1\LearnNUget.AssemblyInfo.cs
+C:\Users\AlphaPaiN\Documents\Alguns cursos diferentes\LearnNUget\obj\Debug\netcoreapp3.1\LearnNUget.csproj.CoreCompileInputs.cache
+C:\Users\AlphaPaiN\Documents\Alguns cursos diferentes\LearnNUget\obj\Debug\netcoreapp3.1\LearnNUget.dll
+C:\Users\AlphaPaiN\Documents\Alguns cursos diferentes\LearnNUget\obj\Debug\netcoreapp3.1\LearnNUget.pdb
+C:\Users\AlphaPaiN\Documents\Alguns cursos diferentes\LearnNUget\obj\Debug\netcoreapp3.1\LearnNUget.genruntimeconfig.cache
+C:\Users\AlphaPaiN\Documents\Alguns cursos diferentes\LearnNUget\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\AlphaPaiN\Documents\Alguns cursos diferentes\LearnNUget\obj\Debug\netcoreapp3.1\LearnNUget.csproj.CopyComplete
